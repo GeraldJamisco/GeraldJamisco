@@ -3,7 +3,7 @@
 Software developer in Kampala, Uganda. I build products end to end: Laravel and Node back ends, mobile apps,
 and the integrations that connect them to the real world (SMS, payment callbacks, ERPs).
 
-Diploma in ICT (Datamine Technical Business School). I also spent three years working and teaching in Cambodia and
+Diploma in ICT (Datamine Technical Business School). I also spent three years as a personal assistant and a software engineer freelancing for several organisations during my free time while in Cambodia, China and
 Vietnam, which taught me to explain technical things clearly and to work with people across cultures.
 
 **Looking for:** a developer role in Kampala, ideally mobile or back-end, in logistics, fintech or similar.
